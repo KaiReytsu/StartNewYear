@@ -120,10 +120,10 @@ def run_program(music_file, ttime, url):
 
 
 
-music_file = 'music/JingleBells.wav'
-run_countdown = '12:09:47'
-fireworks_url = 'https://www.youtube.com/watch?v=_LpMB1OZ53g'
-video = 'NY.mp4'
+music_file = ''                                 #music file to play befoure countdown
+run_countdown = '23:59:47'                      #time to start countdown
+# fireworks_url = ''
+video = ''                                      #video file to play after countdown   
 
 run_program(music_file, run_countdown, video)
 
