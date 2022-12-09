@@ -1,0 +1,12 @@
+*.png
+*.mp4
+*.ico
+*.wav
+*.txt
+*.zip
+*.jpg
+*.jpeg
+images/
+try.py
+tests.py
+startny.sh
